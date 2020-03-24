@@ -20,8 +20,8 @@
         {
           "type": "git",
           "url": "git://github.com/elementary/stylesheet.git",
-          "branch": "5.2.5",
-          "commit": "2ded98fb796b3fa2957dab5854631c910979cc4d"
+          "branch": "5.4.2",
+          "commit": "7902bdb8a4c49128870ab785f6fe3d035e1edfee"
         }
       ]
     },
